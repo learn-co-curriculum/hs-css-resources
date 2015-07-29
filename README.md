@@ -1,8 +1,4 @@
----
-tags: css, kids
-languages: css
-type: resource
----
+
 
 No need to memorize all those CSS properties. Take a look at these great resources.
 
