@@ -11,4 +11,4 @@ No need to memorize all those CSS properties. Take a look at these great resourc
 4 [w3schools](http://www.w3schools.com/cssref/)
 
 5 [Colour Lovers](http://www.colourlovers.com/)
-<a href='https://learn.co/lessons/hs-css-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-css-resources' title='No need to memorize all those CSS properties. Take a look at these great resources.'>No need to memorize all those CSS properties. Take a look at these great resources.</a> on Learn.co and start learning to code for free.</p>
